@@ -6,6 +6,8 @@ https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1
 ```
 ![Screenshot](https://github.com/fabianMM04/Pookemon/blob/master/Front_pokemon.PNG?raw=true "Optional Title")
 
+![Screenshot](https://github.com/fabianMM04/Pookemon/blob/master/Choose_pokemon.PNG?raw=true "Optional Title")
+
 ## 2. Maquina selección aleatoria 
 * Mostrar pokémon de espalda:muscle::alien::muscle:
 ```
@@ -15,7 +17,7 @@ https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/1.
 ```
 https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1.png
 ```
-![Screenshot](https://github.com/fabianMM04/Pookemon/blob/master/Choose_pokemon.PNG?raw=true "Optional Title")
+![Screenshot](https://github.com/fabianMM04/Pookemon/blob/master/Machine_pokemon.PNG?raw=true "Optional Title")
 
 ## 3. Batalla pokemon
 
