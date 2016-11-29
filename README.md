@@ -5,9 +5,7 @@
 https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/1.png
 ```
 ![Screenshot](https://github.com/fabianMM04/Pookemon/blob/master/Front_pokemon.PNG?raw=true "Optional Title")
-* Lista de pokemones
-'''
-'''
+
 ![Screenshot](https://github.com/fabianMM04/Pookemon/blob/master/Choose_pokemon.PNG?raw=true "Optional Title")
 
 ## 2. Maquina selección aleatoria 
